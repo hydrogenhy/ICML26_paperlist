@@ -14,5 +14,10 @@
     "id": "kdd-2026",
     "name": "KDD 2026 stage1",
     "file": "kdd_2026_paper_v1.txt"
+  },
+  {
+    "id": "aaai-2026",
+    "name": "AAAI 2026",
+    "file": "aaai_2026_paper.txt"
   }
 ]
